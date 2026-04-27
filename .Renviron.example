@@ -1,0 +1,3 @@
+# Placeholder values only. Copy this file to .Renviron and update locally if needed.
+MOVIEMAJIK_DATA_DIR=./data
+SHINY_PORT=3838
